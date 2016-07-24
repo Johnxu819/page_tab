@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "354ecd4dd13820aa14f7c3d84ded49f5"
+build_time: [519541002, 969026000]
+inputs:
+  "/Users/johnxu/Desktop/page_tab/test_pageviewcontroller/test_pageviewcontroller/ViewController.swift": [519192807, 0]
+  "/Users/johnxu/Desktop/page_tab/test_pageviewcontroller/test_pageviewcontroller/SecondViewController.swift": [519033775, 0]
+  "/Users/johnxu/Desktop/page_tab/test_pageviewcontroller/test_pageviewcontroller/InstructionView.swift": [519124411, 0]
+  "/Users/johnxu/Desktop/page_tab/test_pageviewcontroller/test_pageviewcontroller/AppDelegate.swift": [519033775, 0]
+  "/Users/johnxu/Desktop/page_tab/test_pageviewcontroller/test_pageviewcontroller/pagetab/PageTab.swift": [519125042, 0]
+  "/Users/johnxu/Desktop/page_tab/test_pageviewcontroller/test_pageviewcontroller/FirstViewController.swift": [519034161, 0]
